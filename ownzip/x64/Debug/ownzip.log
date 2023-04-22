@@ -1,0 +1,10 @@
+﻿  Source.cpp
+D:\source_calcu\repos\ownzip\ownzip\Source.cpp(74,14): warning C4018: '<': signed/unsigned mismatch
+D:\source_calcu\repos\ownzip\ownzip\Source.cpp(78,15): warning C4018: '<': signed/unsigned mismatch
+D:\source_calcu\repos\ownzip\ownzip\Source.cpp(229,40): warning C4267: '=': conversion from 'size_t' to 'unsigned char', possible loss of data
+D:\source_calcu\repos\ownzip\ownzip\Source.cpp(388,63): warning C4805: '!=': unsafe mix of type '_Ty' and type 'bool' in operation
+          with
+          [
+              _Ty=int
+          ]
+  ownzip.vcxproj -> D:\source_calcu\repos\ownzip\x64\Debug\ownzip.exe
