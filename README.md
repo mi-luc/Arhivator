@@ -1,7 +1,7 @@
 # Arhivator
 Arhivator fisiere codare Huffman
 ---
-## Comenzi folosite pentru arhivare
+### Comenzi folosite pentru arhivare
 Pentru arhivare fisier:
 
 arhivator.exe -a NumeFisierIN NumeFisierOUT
